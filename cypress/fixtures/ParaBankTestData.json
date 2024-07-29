@@ -1,0 +1,13 @@
+{
+    "firstname": "Harry",
+    "lastname": "Potter",
+    "address": "4 Private Drive",
+    "cityname": "London",
+    "statename": "UK",
+    "zipcodeno": "67890",
+    "phoneno": "0987654743",
+    "ssno": "786",
+    "username": "admin",
+    "password": "098@1234",
+    "URL": "https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC"
+}
